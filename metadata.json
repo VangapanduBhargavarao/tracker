@@ -1,0 +1,6 @@
+{
+  "name": "AuraHabit - Gamified Daily Activity & Habit Tracker",
+  "description": "Level up your life with AuraHabit: a gamified daily activity tracker featuring XP rewards, streak beasts, habits, analytics, and achievement unlocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

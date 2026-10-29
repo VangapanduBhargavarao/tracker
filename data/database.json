@@ -1,0 +1,119 @@
+{
+  "users": [],
+  "tasks": [],
+  "habits": [],
+  "habitLogs": [],
+  "xpTransactions": [],
+  "achievements": [
+    {
+      "id": "first_task",
+      "name": "First Victory",
+      "description": "Complete your first task and take the first step.",
+      "icon": "Sword",
+      "xpBonus": 50,
+      "category": "starter",
+      "rarity": "Common"
+    },
+    {
+      "id": "early_bird",
+      "name": "Dawn Raider",
+      "description": "Complete a task before 9:00 AM.",
+      "icon": "Sunrise",
+      "xpBonus": 40,
+      "category": "productivity",
+      "rarity": "Common"
+    },
+    {
+      "id": "high_roller",
+      "name": "Heavy Hitter",
+      "description": "Complete 3 High-Priority tasks in a single day.",
+      "icon": "Flame",
+      "xpBonus": 80,
+      "category": "productivity",
+      "rarity": "Rare"
+    },
+    {
+      "id": "pentakill",
+      "name": "Pentakill",
+      "description": "Complete 5 tasks in one single day.",
+      "icon": "Zap",
+      "xpBonus": 100,
+      "category": "productivity",
+      "rarity": "Rare"
+    },
+    {
+      "id": "streak_3",
+      "name": "Consistency Starter",
+      "description": "Maintain an unbroken 3-day active streak.",
+      "icon": "Shield",
+      "xpBonus": 80,
+      "category": "streak",
+      "rarity": "Common"
+    },
+    {
+      "id": "streak_7",
+      "name": "Weekly Warrior",
+      "description": "Maintain an unbroken 7-day active streak.",
+      "icon": "Trophy",
+      "xpBonus": 160,
+      "category": "streak",
+      "rarity": "Rare"
+    },
+    {
+      "id": "streak_14",
+      "name": "Discipline Builder",
+      "description": "Hold a 14-day streak of unrelenting focus.",
+      "icon": "Award",
+      "xpBonus": 350,
+      "category": "streak",
+      "rarity": "Epic"
+    },
+    {
+      "id": "streak_30",
+      "name": "Consistency Master",
+      "description": "Achieve a 30-day streak of excellence.",
+      "icon": "Crown",
+      "xpBonus": 800,
+      "category": "streak",
+      "rarity": "Epic"
+    },
+    {
+      "id": "streak_100",
+      "name": "Legendary Achiever",
+      "description": "Reach a legendary 100-day streak!",
+      "icon": "Sparkles",
+      "xpBonus": 2500,
+      "category": "streak",
+      "rarity": "Legendary"
+    },
+    {
+      "id": "habit_hero",
+      "name": "Routine Architect",
+      "description": "Log 15 recurring habit check-ins.",
+      "icon": "Repeat",
+      "xpBonus": 150,
+      "category": "productivity",
+      "rarity": "Rare"
+    },
+    {
+      "id": "century_club",
+      "name": "Centurion",
+      "description": "Complete 100 total tasks.",
+      "icon": "Medal",
+      "xpBonus": 600,
+      "category": "mastery",
+      "rarity": "Epic"
+    },
+    {
+      "id": "perfect_week",
+      "name": "Flawless Orbit",
+      "description": "Reach 100% of your daily goals for 7 consecutive days.",
+      "icon": "CheckCircle2",
+      "xpBonus": 300,
+      "category": "mastery",
+      "rarity": "Epic"
+    }
+  ],
+  "userAchievements": [],
+  "dailySummaries": []
+}
